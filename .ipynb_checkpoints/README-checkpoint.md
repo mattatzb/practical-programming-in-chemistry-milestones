@@ -13,7 +13,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://https://github.com/mattatzb/ppchem/tree/branch1            |
 | 1    | Create a conda environment                  | https://https://github.com/mattatzb/ppchem/blob/main/env.yml      |
 | 1    | Fork a Repo                                 | https://https://github.com/mattatzb/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |https://github.com/mattatzb/ppchem/pull/1
+| 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
 **More milestones will be added throughout the course.**
